@@ -7,7 +7,8 @@ Using Python to Create a Cross Shape Module
 
 
 
-<img width="592" height="194" alt="Screenshot 2026-10-19 at 8 58 34 PM" src="https://github.com/user-attachments/assets/f53257ef-ce70-49a8-bd40-1c5601a411a6" />
+
+<img width="265" height="70" alt="Screenshot 2026-10-19 at 9 00 49 PM" src="https://github.com/user-attachments/assets/4558e70d-20f2-46e4-b0b8-652afb7bc3ce" />
 
 </br>
 <img width="782" height="747" alt="Screenshot 2026-10-19 at 9 00 22 PM" src="https://github.com/user-attachments/assets/5d175530-307e-432d-95a7-0f0c3a5ef7a3" />
